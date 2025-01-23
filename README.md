@@ -3,6 +3,8 @@
 I often see questions about waypoints and echoes in my guild and OOC, so I decided to create a map.
 It’s still in a rough state, so I plan to update it as I find errors or make new discoveries.
 
+![waypoints](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.png)
+
 # Map
 I focused on showing the connections—specifically where the zone lines are located within the boxes.
 This is because in THJ, you can view detailed maps directly within the client.
@@ -10,7 +12,7 @@ For this reason, I avoided including detailed zone information, except for the o
 Additionally, I standardized the size ratios of the zones. You can see that the zones have been getting larger with each expansion.
 
 # How to Use
-If you want to search using something like Ctrl+F, you can use the PDF version.
+If you want to search using something like Ctrl+F, you can use the [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf).
 Also, I set the minimum font size to 7pt so that the text remains legible even when printed on A3 paper with a 300dpi printer.
 
 # Maintenance

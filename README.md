@@ -10,10 +10,12 @@ I focused on showing the connections—specifically where the zone lines are loc
 This is because in THJ, you can view detailed maps directly within the client.
 For this reason, I avoided including detailed zone information, except for the oceans.
 Additionally, I standardized the size ratios of the zones. You can see that the zones have been getting larger with each expansion.
+However, towns, dungeons, and similar areas were too small to render properly at their original scale, so I doubled their size.
 
 # How to Use
-If you want to search using something like Ctrl+F, you can use the [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf).
-Also, I set the minimum font size to 7pt so that the text remains legible even when printed on A3 paper with a 300dpi printer.
+If you want to search using something like Ctrl+F, 
+you can use the [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf).
+Also, I set the minimum font size to 5pt so that the text remains legible even when printed on A3 paper with a 300dpi printer.
 
 # Maintenance
 This PDF was created using Adobe Illustrator.
@@ -34,14 +36,15 @@ I’ve been working with Illustrator for over 30 years, so my body instinctively
 これは、マップの詳細はTHJの場合クライアントで見ることが出来るからだ。
 そのため、ゾーンの詳細は海以外は書かないようにした。
 また、ゾーンの大きさの比率を統一した。拡張が進むごとに大型化していることがわかる。
+ただし、街やダンジョンなどはそのままのスケールでは小さすぎて潰れてしまうため倍のサイズにした。
 
 # 使い方
 Ctrl-F等で検索したい場合はPDF版を使う事ができる。
-また、300dpiのプリンタでA3用紙に印刷しても判読できるよう文字サイズの下限を7ptとした。
+また、300dpiのプリンタでA3用紙に印刷しても判読できるよう文字サイズの下限を5ptとした。
 
 # 保守
 このPDFはAdobe Illustratorを使って作成した。
-私はIllustratorのメタデータをPDFに残しているので、あなたがIllustratorを持っているなら再編集が出来る。
+私はIllustratorのメタデータをPDFに残しているので、Illustratorを持っている人は再編集が出来る。
 フォントは[Apple SF Mono](https://developer.apple.com/fonts/)を使用している。
 
 # 問題

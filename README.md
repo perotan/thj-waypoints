@@ -1,6 +1,6 @@
 # Waypoint and Echo Map -- The Heroes Journey
 
-I often see questions in OOC chats asking where waypoints and echoes are located, so I created a map.
+I often see questions in ooc chats asking where waypoints and echoes are located, so I created a map.
 I hope it helps someone.
 That said, it’s still in a fairly rough state, and I plan to update it on a whim as errors or new discoveries arise.
 
@@ -34,6 +34,12 @@ As THJ expands, it will eventually become impossible to fit the map onto A3 pape
 Additionally, Illustrator is expensive, so only a limited number of people can edit the file.
 Having used Illustrator for over 30 years, my spine instinctively rejects any other vector tools.
 
+# Reference
+- [Waypoint list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/teleport/)
+- [Waypoint list - THJ Database Interface](https://www.thjdi.cc/waypoints)
+- [Waypoint map - THJ Database Interface](https://www.thjdi.cc/zones)
+- [Echo of the Past list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/echo-of-the-past/)
+
 
 # In Japanese
 # ウェイポイントとエコーの地図
@@ -48,7 +54,7 @@ waypointとechoがどこにあるのかという質問をoocで目にするの�
 ゾーンの地形や建造物の詳細は趣旨のウェイポイントとエコーの情報のノイズになってしまうので出来るだけ書かないようにした。
 - ゾーンの大きさの比率を統一し、走る距離を事前に把握できるようにした。(loc 1000 = 7pt)
 ただし、街やダンジョンなどはそのままのスケールでは小さすぎて潰れてしまうため倍のサイズにした。
-- 検索が出来るようにPDF版を用意した。またAdobe Illustratorで編集ができる。
+- 検索が出来るようにPDF版を用意した。またIllustratorで編集できるようにした。
 - 文字サイズの下限を5ptとして、300dpiのプリンタでA3用紙に印刷した場合に判読ができるようにした。
 
 # おすすめ
@@ -67,3 +73,9 @@ Apple SF Mono フォントは [こちら](https://developer.apple.com/fonts/) �
 THJの拡張が進むとA3には収まらなくなるし、何なら既に限界にきている。
 また、Illustratorは高価なので編集できる人は限られている。
 私は30年以上もIllustratorと付き合いがあるので、これ以外のベクトル系のツールは脊椎が拒否する。
+
+# 参考
+- [Waypoint list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/teleport/)
+- [Waypoint list - THJ Database Interface](https://www.thjdi.cc/waypoints)
+- [Waypoint map - THJ Database Interface](https://www.thjdi.cc/zones)
+- [Echo of the Past list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/echo-of-the-past/)

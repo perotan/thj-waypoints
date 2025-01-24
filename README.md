@@ -1,4 +1,4 @@
-# Waypoints and Echos -- The Heroes Journey
+# Waypoints and Echoes -- The Heroes Journey
 
 I often see questions about waypoints and echoes in the guild I belong to and in OOC chats, so I decided to create a map.
 It's still in a pretty rough state, so I plan to update it as mistakes or new discoveries come up. 

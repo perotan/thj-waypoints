@@ -1,53 +1,51 @@
 # The Heroes Journey -- Waypoints and Echos
 
-I often see questions about waypoints and echoes in my guild and OOC, so I decided to create a map.
-It’s still in a rough state, so I plan to update it as I find errors or make new discoveries.
+I often see questions about waypoints and echoes in the guild I belong to and in OOC chats, so I decided to create a map.
+It's still in a pretty rough state, so I plan to update it as mistakes or new discoveries come up. 
 
 ![waypoints](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.png)
 
-# Map
-I focused on showing the connections—specifically where the zone lines are located within the boxes.
-This is because in THJ, you can view detailed maps directly within the client.
-For this reason, I avoided including detailed zone information, except for the oceans.
-Additionally, I standardized the size ratios of the zones. You can see that the zones have been getting larger with each expansion.
-However, towns, dungeons, and similar areas were too small to render properly at their original scale, so I doubled their size.
-
-# How to Use
-If you want to search using something like Ctrl+F, 
-you can use the [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf).
-Also, I set the minimum font size to 5pt so that the text remains legible even when printed on A3 paper with a 300dpi printer.
+# Features
+I focused on connections, specifically where zone lines are located relative to the outer shape of a zone, 
+and avoided adding details about the zone's terrain or buildings, as these would be noise. 
+This is because, in THJ, map details can be viewed directly in the client.
+I also standardized the scale of the zones so that running distances can be estimated in advance.
+However, cities and dungeons would become too small to see clearly at the original scale, so I doubled their size.
+To make the map searchable, I also prepared a [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf).
+Additionally, I ensured the minimum font size is 5pt, so it remains legible when printed at 300 dpi on A3 paper. 
+(Though I can't read it myself because of my presbyopia!)
 
 # Maintenance
 This PDF was created using Adobe Illustrator.
-I’ve preserved Illustrator metadata within the PDF, so if you have Illustrator, you can edit it.
-You can download Apple SF Mono font from [here](https://developer.apple.com/fonts/).
+I’ve left Illustrator metadata in the PDF, so those with Illustrator can edit it further.
+The font used is Apple SF Mono, which can be downloaded from [Apple's website](https://developer.apple.com/fonts/).
 
 # Issues
-As THJ continues to expand, it may no longer fit on an A3 sheet. Luclin might already be pushing the limit.
-Additionally, since Illustrator is expensive, the number of people who can edit it is limited.
-I’ve been working with Illustrator for over 30 years, so my body instinctively rejects any other vector tools.
+As THJ expands, the map won’t fit on A3 paper anymore—it’s already close to its limits.
+Additionally, Illustrator is expensive, which limits the number of people who can edit the file.
+I’ve been using Illustrator for over 30 years, so my spine instinctively rejects any other vector tools.
+
 
 # In Japanese
 私が所属しているギルドやoocでwaypointとechoの質問をよく目にするので、マップを作成してみた。
 まだかなり荒い状態なので、間違いや発見があれば適宜アップデートしていこうと思う。
 
-# マップ
-ゾーンラインが箱のどの位置にあるのかという接続を重視した。
-これは、マップの詳細はTHJの場合クライアントで見ることが出来るからだ。
-そのため、ゾーンの詳細は海以外は書かないようにした。
-また、ゾーンの大きさの比率を統一した。拡張が進むごとに大型化していることがわかる。
+# 特徴
+ゾーンラインがゾーンの外形のどの位置にあるのかという接続を重視し、
+ゾーンの地形や建造物の詳細はノイズになるので出来るだけ書かないようにした。
+これは、THJではマップの詳細がクライアントで見ることが出来るからだ。
+また、ゾーンの大きさの比率を統一し、走る距離を事前に把握できるようにした。
 ただし、街やダンジョンなどはそのままのスケールでは小さすぎて潰れてしまうため倍のサイズにした。
-
-# 使い方
-Ctrl-F等で検索したい場合はPDF版を使う事ができる。
-また、300dpiのプリンタでA3用紙に印刷しても判読できるよう文字サイズの下限を5ptとした。
+検索が出来るようにPDF版も用意した。
+また、文字サイズの下限を5ptとして、300dpiのプリンタでA3用紙に印刷した場合に判読ができるようにした。
+書いている私自身は老眼で読めないが！
 
 # 保守
 このPDFはAdobe Illustratorを使って作成した。
 私はIllustratorのメタデータをPDFに残しているので、Illustratorを持っている人は再編集が出来る。
-フォントは[Apple SF Mono](https://developer.apple.com/fonts/)を使用している。
+フォントは[Apple SF Mono](https://developer.apple.com/fonts/)からダウンロードできる。
 
 # 問題
-THJの拡張が進むとA3には収まらなくなるだろう。luclinで限界かもしれない。
+THJの拡張が進むとA3には収まらなくなるし、何なら既に限界にきている。
 また、Illustratorは高価なので編集できる人は限られている。
 私は30年以上もIllustratorと付き合いがあるので、これ以外のベクトル系のツールは脊椎が拒否する。

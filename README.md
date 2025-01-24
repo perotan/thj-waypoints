@@ -19,7 +19,7 @@ and the map can be edited using Adobe Illustrator.
 # Recommendation
 Some zones, like Nadox, do not have default maps.
 I recommend installing [Brewall map files](https://www.eqmaps.info/eq-map-files/).
-For zones like Bazzar, where the maps may be outdated, you can overwrite them with THJ files to resolve the issue:
+For zones like Bazaar, where the maps may be outdated, you can overwrite them with THJ files to resolve the issue:
 
 - Delete `maps/Brewall/bazaar.txt`, `bazaar_1.txt`, and `bazaar_2.txt`.
 - Copy `maps/bazaar.txt`, `bazaar_1.txt`, `bazaar_2.txt`, and `bazaar_3.txt` into the `Brewall` folder.

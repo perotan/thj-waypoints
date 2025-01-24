@@ -44,35 +44,35 @@ Having used Illustrator for over 30 years, my spine instinctively rejects any ot
 # In Japanese
 # ウェイポイントとエコーの地図
 
-waypointとechoがどこにあるのかという質問をoocで目にするので、マップを作成した。
+Waypoint と Echo of the Past がどこにあるのかという質問を ooc で目にするので、マップを作成した。
 誰かの助けになればうれしい。
 ただ、まだかなり荒い状態なので、エラーや発見があれば気分次第でアップデートしていこうと思う。
 
 # 特徴
-- ウェイポイントやエコーがゾーンのどのあたりにあるのかを実際に調査して記載した。
+- Waypoint や Echo がゾーンのどのあたりにあるのかを実際に調査して記載した。
 - ベースになる地図そのものはゾーンラインがゾーンの外形のどの位置にあるのかという点を重視し、
 ゾーンの地形や建造物の詳細は趣旨のウェイポイントとエコーの情報のノイズになってしまうので出来るだけ書かないようにした。
 - ゾーンの大きさの比率を統一し、走る距離を事前に把握できるようにした。(loc 1000 = 7pt)
 ただし、街やダンジョンなどはそのままのスケールでは小さすぎて潰れてしまうため倍のサイズにした。
-- 検索が出来るようにPDF版を用意した。またIllustratorで編集できるようにした。
-- 文字サイズの下限を5ptとして、300dpiのプリンタでA3用紙に印刷した場合に判読ができるようにした。
+- 検索が出来るように PDF 版を用意した。また Illustrator で編集できるようにした。
+- 文字サイズの下限を 5pt として、300dpi のプリンタで A3 用紙に印刷した場合に判読ができるようにした。
 
 # おすすめ
-Nadoxなどデフォルトでマップが用意されていないゾーンがある。
-[Brewallさんのマップファイル](https://www.eqmaps.info/eq-map-files/) をインストールすることをお勧めする。
-Bazzarなど一部のゾーンで時代の異なるマップになってしまうので、その際はTHJのファイルで上書きすることで回避できる。
-- maps/brewall/bazaar.txt, bazaar_1.txt, bazaar_2.txtを削除
-- maps/bazaar.txt, bazaar_1.txt, bazaar_2.txt, bazaar_3.txtをbrewallフォルダにコピー
-- Defaultマップに変更、Brewallマップに変更
+Nadox などデフォルトでマップが用意されていないゾーンがある。
+[Brewall さんのマップファイル](https://www.eqmaps.info/eq-map-files/) をインストールすることをお勧めする。
+Bazaar など一部のゾーンで時代の異なるマップになってしまうので、その際は THJ のファイルで上書きすることで回避できる。
+- `maps/Brewall/bazaar.txt`, `bazaar_1.txt`, `bazaar_2.txt` を削除
+- `maps/bazaar.txt`, `bazaar_1.txt`, `bazaar_2.txt`, `bazaar_3.txt` を `Brewall` フォルダにコピー
+- `Default` マップに変更、`Brewall` マップに変更
 
 # 保守
-このPDFにはAdobe Illustratorのメタデータを削除していないので、再編集が可能である。
+この PDF には Adobe Illustrator のメタデータを削除していないので、再編集が可能である。
 Apple SF Mono フォントは [こちら](https://developer.apple.com/fonts/) からダウンロードできる。
 
 # 問題
-THJの拡張が進むとA3には収まらなくなるし、何なら既に限界にきている。
-また、Illustratorは高価なので編集できる人は限られている。
-私は30年以上もIllustratorと付き合いがあるので、これ以外のベクトル系のツールは脊椎が拒否する。
+THJ の拡張が進むと A3 には収まらなくなるし、何なら既に限界にきている。
+また、Illustrator は高価なので編集できる人は限られている。
+私は 30 年以上 Illustrator と付き合っているので、これ以外のベクトル系のツールは脊椎が拒否する。
 
 # 参考
 - [Waypoint list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/teleport/)

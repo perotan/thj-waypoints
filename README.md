@@ -1,54 +1,55 @@
-# Waypoints and Echoes -- The Heroes Journey
+# Waypoint and Echo Map -- The Heroes Journey
 
-I often see questions about waypoints and echoes in the guild I belong to and in OOC chats, so I decided to create a map.
-It's still in a pretty rough state, so I plan to update it as mistakes or new discoveries come up. 
+I often see questions in OOC chats asking where waypoints and echoes are located, so I created a map.
+I hope it helps someone.
+That said, it’s still in a fairly rough state, and I plan to update it on a whim as errors or new discoveries arise.
 
 ![waypoints](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.png)
 
 # Features
-I focused on connections, specifically where zone lines are located relative to the outer shape of a zone, 
-and avoided adding details about the zone's terrain or buildings, as these would be noise. 
-This is because, in THJ, map details can be viewed directly in the client.
-I also standardized the scale of the zones so that running distances can be estimated in advance.
-However, cities and dungeons would become too small to see clearly at the original scale, so I doubled their size.
-To make the map searchable, I also prepared a [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf).
-Additionally, I ensured the minimum font size is 5pt, so it remains legible when printed at 300 dpi on A3 paper. 
-(Though I can't read it myself because of my age!)
+- I surveyed the locations of waypoints and echoes within zones and marked them on the map.
+- The base map emphasizes the position of zone lines relative to the outer shape of each zone.
+To avoid unnecessary noise, details about zone terrain and buildings were omitted, as the focus is on waypoints and echoes.
+- The size ratios of zones are standardized to allow for advance estimation of running distances (loc 1000 = 7pt).
+However, towns and dungeons are scaled up by 2x to prevent them from becoming too small to see.
+- A searchable [PDF version](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.pdf) is available,
+and the map can be edited using Adobe Illustrator.
+- The minimum font size is set to 5pt to ensure readability when printed at 300 dpi on A3 paper.
 
 # Recommendation
-There are zones like Nadox where no default map is provided.
+Some zones, like Nadox, do not have default maps.
 I recommend installing [Brewall map files](https://www.eqmaps.info/eq-map-files/).
-However, for certain zones like Bazaar, the maps may be from a different era.
-To resolve this, you can overwrite them with the THJ files:
+For zones like Bazzar, where the maps may be outdated, you can overwrite them with THJ files to resolve the issue:
 
-- Delete maps/brewall/bazaar.txt, bazaar_1.txt, and bazaar_2.txt.
-- Copy maps/bazaar.txt, bazaar_1.txt, bazaar_2.txt, and bazaar_3.txt into the Brewall folder.
-- Switch to the Default map, then back to the Brewall map.
+- Delete `maps/Brewall/bazaar.txt`, `bazaar_1.txt`, and `bazaar_2.txt`.
+- Copy `maps/bazaar.txt`, `bazaar_1.txt`, `bazaar_2.txt`, and `bazaar_3.txt` into the `Brewall` folder.
+- Switch to the `Default` map and then back to the `Brewall` map.
 
 # Maintenance
-This PDF was created using Adobe Illustrator.
-I’ve left Illustrator metadata in the PDF, so those with Illustrator can edit it further.
-The font used is Apple SF Mono, which can be downloaded from [Apple's website](https://developer.apple.com/fonts/).
+This PDF retains Adobe Illustrator metadata, allowing for future edits.
+The Apple SF Mono font can be downloaded [here](https://developer.apple.com/fonts/).
 
 # Issues
-As THJ expands, the map won’t fit on A3 paper anymore—it’s already close to its limits.
-Additionally, Illustrator is expensive, which limits the number of people who can edit the file.
-I’ve been using Illustrator for over 30 years, so my spine instinctively rejects any other vector tools.
+As THJ expands, it will eventually become impossible to fit the map onto A3 paper—it’s already pushing the limits.
+Additionally, Illustrator is expensive, so only a limited number of people can edit the file.
+Having used Illustrator for over 30 years, my spine instinctively rejects any other vector tools.
 
 
 # In Japanese
-私が所属しているギルドやoocでwaypointとechoの質問をよく目にするので、マップを作成してみた。
-まだかなり荒い状態なので、間違いや発見があれば適宜アップデートしていこうと思う。
+# ウェイポイントとエコーの地図
+
+waypointとechoがどこにあるのかという質問をoocで目にするので、マップを作成した。
+誰かの助けになればうれしい。
+ただ、まだかなり荒い状態なので、エラーや発見があれば気分次第でアップデートしていこうと思う。
 
 # 特徴
-ゾーンラインがゾーンの外形のどの位置にあるのかという接続を重視し、
-ゾーンの地形や建造物の詳細はノイズになるので出来るだけ書かないようにした。
-これは、THJではマップの詳細がクライアントで見ることが出来るからだ。
-また、ゾーンの大きさの比率を統一し、走る距離を事前に把握できるようにした。
+- ウェイポイントやエコーがゾーンのどのあたりにあるのかを実際に調査して記載した。
+- ベースになる地図そのものはゾーンラインがゾーンの外形のどの位置にあるのかという点を重視し、
+ゾーンの地形や建造物の詳細は趣旨のウェイポイントとエコーの情報のノイズになってしまうので出来るだけ書かないようにした。
+- ゾーンの大きさの比率を統一し、走る距離を事前に把握できるようにした。(loc 1000 = 7pt)
 ただし、街やダンジョンなどはそのままのスケールでは小さすぎて潰れてしまうため倍のサイズにした。
-検索が出来るようにPDF版も用意した。
-また、文字サイズの下限を5ptとして、300dpiのプリンタでA3用紙に印刷した場合に判読ができるようにした。
-書いている私自身は老眼で読めないが！
+- 検索が出来るようにPDF版を用意した。またAdobe Illustratorで編集ができる。
+- 文字サイズの下限を5ptとして、300dpiのプリンタでA3用紙に印刷した場合に判読ができるようにした。
 
 # おすすめ
 Nadoxなどデフォルトでマップが用意されていないゾーンがある。
@@ -59,9 +60,8 @@ Bazzarなど一部のゾーンで時代の異なるマップになってしま�
 - Defaultマップに変更、Brewallマップに変更
 
 # 保守
-このPDFはAdobe Illustratorを使って作成した。
-私はIllustratorのメタデータをPDFに残しているので、Illustratorを持っている人は再編集が出来る。
-フォントは[Apple SF Mono](https://developer.apple.com/fonts/)からダウンロードできる。
+このPDFにはAdobe Illustratorのメタデータを削除していないので、再編集が可能である。
+Apple SF Mono フォントは [こちら](https://developer.apple.com/fonts/) からダウンロードできる。
 
 # 問題
 THJの拡張が進むとA3には収まらなくなるし、何なら既に限界にきている。

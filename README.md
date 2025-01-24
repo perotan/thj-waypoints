@@ -39,6 +39,7 @@ Having used Illustrator for over 30 years, my spine instinctively rejects any ot
 - [Waypoint list - THJ Database Interface](https://www.thjdi.cc/waypoints)
 - [Waypoint map - THJ Database Interface](https://www.thjdi.cc/zones)
 - [Echo of the Past list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/echo-of-the-past/)
+- [My blog (Japanese only)](https://perotanz.hatenablog.com/entry/2025/01/25/030242)
 
 
 # In Japanese
@@ -79,3 +80,4 @@ THJ の拡張が進むと A3 には収まらなくなるし、何なら既に限
 - [Waypoint list - THJ Database Interface](https://www.thjdi.cc/waypoints)
 - [Waypoint map - THJ Database Interface](https://www.thjdi.cc/zones)
 - [Echo of the Past list - THJ wiki](https://thj-wiki.web.app/exploration-and-combat/echo-of-the-past/)
+- [ブログ](https://perotanz.hatenablog.com/entry/2025/01/25/030242)

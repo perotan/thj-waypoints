@@ -2,7 +2,8 @@
 
 ![waypoints](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.png)
 
-If you find any mistakes or issues, please let me know via Discord (username: pero).
+If you find any mistakes or issues, please let me know via Discord.
+(channel & roll > channel list > community-tools > Waypoint and Echo map)
 
 # Features
 - The map shows the approximate locations of Waypoints and Echoes in each zone, 

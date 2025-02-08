@@ -6,6 +6,7 @@ If you find any mistakes or issues, please let me know via Discord.
 (channel & roll > channel list > community-tools > Waypoint and Echo map)
 
 # Features
+- Updated for Luclin
 - The map shows the approximate locations of Waypoints and Echoes in each zone, 
 based on the official wiki: 
 [Waypoint list](https://thj-wiki.web.app/exploration-and-combat/teleport/) and 

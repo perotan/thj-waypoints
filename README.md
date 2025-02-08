@@ -1,6 +1,6 @@
 # Waypoint and Echo Map -- The Heroes Journey
 
-![waypoints](https://github.com/perotan/thj-waypoints/blob/main/thj-waypoints.png)
+![waypoints](https://github.com/perotan/thj-waypoints/blob/0d7d010ca95dbb7f437c21429372a85a6ccb6a85/thj-waypoints.png)
 
 If you find any mistakes or issues, please let me know via Discord.
 (channel & roll > channel list > community-tools > Waypoint and Echo map)
